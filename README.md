@@ -11,5 +11,6 @@
 
 ---
 
-```gcode
-👑 ⚔️ [SOBRE MIM]
+## 👑 ⚔️ <samp>SOBRE MIM</samp>
+
+> <samp>"Technoblade never dies!" 👑</samp>
