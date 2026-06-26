@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ <samp>CONHECIMENTOS & FERRAMENTAS</samp>
+## 🛠️ <samp>CONHECIMENTOS & FERRAMENTAS</samp> <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="45px" alt="Peak Writing" style="vertical-align: middle; border-radius: 4px; border: 1px solid #FF2E44; margin-left: 10px;"/>
 
 <samp>Para manter a estética profissional e o visual vermelho do perfil, aqui estão as tecnologias que domino e estou estudando atualmente:</samp>
 
@@ -55,9 +55,3 @@
 <a href="mailto:francisco.yoshitoni@escola.pr.gov.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
----
-
-<div align="right">
-  <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="30%" alt="Peak Writing" style="border-radius: 4px; border: 1px solid #FF2E44;"/>
-</div>
