@@ -42,7 +42,7 @@
 ## 📊 <samp>ESTATÍSTICAS DO GITHUB</samp>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Romarinho447-&show_icons=true&theme=dark&title_color=FF2E44&icon_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Romarinho447&show_icons=true&theme=dark&title_color=FF2E44&icon_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romarinho447&layout=compact&theme=dark&title_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
 </div>
 
