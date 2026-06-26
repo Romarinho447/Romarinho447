@@ -5,8 +5,6 @@
     <img src="https://img.shields.io/badge/STATUS-STUDENT-crimson?style=for-the-badge&logo=minecraft&logoColor=white" />
     <img src="https://img.shields.io/badge/THEME-PEAK_WRITING-black?style=for-the-badge&logo=git&logoColor=FF2E44" />
   </p>
-
-  <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="65%" alt="Peak Writing" style="border-radius: 8px; border: 3px solid #FF2E44; margin: 15px 0;"/>
 </div>
 
 ---
@@ -20,7 +18,7 @@
 <samp>Sou um desenvolvedor em constante evolução, focado em aprender novas linguagens de programação, aprimorar a minha lógica e construir projetos sólidos. Inspirado pela filosofia de foco e resiliência, busco sempre alcançar o *"peak writing"* no meu código.</samp>
 
 - 👁️ <samp>**Interesses:** Desenvolvimento Web, lógica de programação e novas tecnologias.</samp>
-- 🌱 <samp>**Evoluindo:** Sempre aberto a novos desafios e aprendizados na área de TI.</samp>
+- 🌱 <samp>**Evoluindo:** Sempre aberto a novos desafios e aprendizados na área di TI.</samp>
 
 ---
 
@@ -42,8 +40,8 @@
 ## 📊 <samp>ESTATÍSTICAS DO GITHUB</samp>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Romarinho447&show_icons=true&theme=dark&title_color=FF2E44&icon_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romarinho447&layout=compact&theme=dark&title_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&title_color=FF2E44&icon_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark&title_color=FF2E44&text_color=ffffff&bg_color=121212&hide_border=true" />
 </div>
 
 ---
@@ -57,3 +55,9 @@
 <a href="mailto:francisco.yoshitoni@escola.pr.gov.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
+---
+
+<div align="right">
+  <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="30%" alt="Peak Writing" style="border-radius: 4px; border: 1px solid #FF2E44;"/>
+</div>
