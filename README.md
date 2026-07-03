@@ -18,11 +18,15 @@
 <samp>Sou um desenvolvedor em constante evolução, focado em aprender novas linguagens de programação, aprimorar a minha lógica e construir projetos sólidos. Inspirado pela filosofia de foco e resiliência, busco sempre alcançar o *"peak writing"* no meu código.</samp>
 
 - 👁️ <samp>**Interesses:** Desenvolvimento Web, lógica de programação e novas tecnologias.</samp>
-- 🌱 <samp>**Evoluindo:** Sempre aberto a novos desafios e aprendizados na área di TI.</samp>
+- 🌱 <samp>**Evoluindo:** Sempre aberto a novos desafios e aprendizados na área de TI.</samp>
 
 ---
 
-## 🛠️ <samp>CONHECIMENTOS & FERRAMENTAS</samp> <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="45px" alt="Peak Writing" style="vertical-align: middle; border-radius: 4px; border: 1px solid #FF2E44; margin-left: 10px;"/>
+## 🛠️ <samp>CONHECIMENTOS & FERRAMENTAS</samp>
+
+<div align="center">
+  <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="150px" alt="Peak Writing" style="border-radius: 8px; border: 2px solid #FF2E44; margin-bottom: 15px;"/>
+</div>
 
 <samp>Para manter a estética profissional e o visual vermelho do perfil, aqui estão as tecnologias que domino e estou estudando atualmente:</samp>
 
