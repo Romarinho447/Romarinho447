@@ -28,7 +28,7 @@
   <img src="https://media.tenor.com/9AOAZZ4YN_oAAAAd/blackbeard-blackbeard-writing.gif" width="150px" alt="Peak Writing" style="border-radius: 8px; border: 2px solid #FF2E44; margin-bottom: 15px;"/>
 </div>
 
-<samp>Para manter a estética profissional e o visual vermelho do perfil, aqui estão as tecnologias que domino e estou estudando atualmente:</samp>
+<samp> Aqui estão as tecnologias que domino e estou estudando atualmente:</samp>
 
 ### 🚀 <samp>Estudando Atualmente</samp>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
